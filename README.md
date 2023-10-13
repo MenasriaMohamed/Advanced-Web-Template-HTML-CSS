@@ -8,7 +8,7 @@ A stunning, responsive HTML/CSS template built with advanced CSS techniques like
 
 ## Demo
 
-Check out the live demo [here](https://your-demo-link.com).
+Check out the live demo [here](https://menasriamohamed.github.io/Advanced-Web-Template-HTML-CSS/).
 
 ## Table of Contents
 
