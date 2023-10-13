@@ -53,10 +53,6 @@ Simply open `index.html` in your web browser to see the template in action.
 
 Contributions are welcome. Please open an issue or create a pull request with your suggestions or bug fixes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - Thanks to [Name] for inspiration.
