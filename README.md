@@ -53,10 +53,6 @@ Simply open `index.html` in your web browser to see the template in action.
 
 Contributions are welcome. Please open an issue or create a pull request with your suggestions or bug fixes.
 
-## Acknowledgments
-
-- Thanks to [Name] for inspiration.
-
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to me at [Your Email Address] or on [Your Social Media Profiles].
